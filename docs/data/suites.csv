@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Dec 01 13:34:38 UTC 2022","Thu Dec 01 13:34:44 UTC 2022","6151","chromium","web/specs/Login.e2e.js","Check login page","","","Login page",""
+"passed","Thu Dec 01 13:34:46 UTC 2022","Thu Dec 01 13:34:51 UTC 2022","5166","Mobile Chrome","mobile/specs/Login.e2e.js","Check login page","","","Login page",""
