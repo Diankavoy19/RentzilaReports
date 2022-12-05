@@ -1,3 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Dec 02 10:54:52 UTC 2022","Fri Dec 02 10:54:58 UTC 2022","5223","chromium","web/specs/Login.e2e.js","Check login page","","","Login page",""
-"passed","Fri Dec 02 10:55:00 UTC 2022","Fri Dec 02 10:55:04 UTC 2022","4075","Mobile Chrome","mobile/specs/Login.e2e.js","Check login page","","","Login page",""
+"passed","Mon Dec 05 12:05:12 UTC 2022","Mon Dec 05 12:05:32 UTC 2022","20066","chromium","web/specs/CreateTender.e2e.js","Verification of creating tender","","","Creating tender",""
+"passed","Mon Dec 05 12:05:41 UTC 2022","Mon Dec 05 12:05:47 UTC 2022","6692","Mobile Chrome","mobile/specs/Login.e2e.js","Check login page","","","Login page",""
+"passed","Mon Dec 05 12:05:32 UTC 2022","Mon Dec 05 12:05:39 UTC 2022","7005","chromium","web/specs/Login.e2e.js","Check login page","","","Login page",""
