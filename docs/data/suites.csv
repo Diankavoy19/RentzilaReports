@@ -1,4 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Dec 05 12:17:00 UTC 2022","Mon Dec 05 12:17:19 UTC 2022","19276","chromium","web/specs/CreateTender.e2e.js","Verification of creating tender","","","Creating tender",""
-"passed","Mon Dec 05 12:17:29 UTC 2022","Mon Dec 05 12:17:35 UTC 2022","6428","Mobile Chrome","mobile/specs/Login.e2e.js","Check login page","","","Login page",""
-"passed","Mon Dec 05 12:17:19 UTC 2022","Mon Dec 05 12:17:27 UTC 2022","7190","chromium","web/specs/Login.e2e.js","Check login page","","","Login page",""
+"passed","Tue Dec 06 09:46:46 UTC 2022","Tue Dec 06 09:47:08 UTC 2022","21610","chromium","web/specs/CreateTender.e2e.js","Verification of creating tender","","","Creating tender",""
+"passed","Tue Dec 06 09:47:08 UTC 2022","Tue Dec 06 09:47:15 UTC 2022","7638","chromium","web/specs/Login.e2e.js","Check login page","","","Login page",""
+"passed","Tue Dec 06 09:47:15 UTC 2022","Tue Dec 06 09:47:23 UTC 2022","7630","chromium","web/specs/Registration.e2e.js","Check registration","","","Registration",""
+"passed","Tue Dec 06 09:47:26 UTC 2022","Tue Dec 06 09:47:33 UTC 2022","7511","Mobile Chrome","mobile/specs/Login.e2e.js","Check login page","","","Login page",""
