@@ -1,4 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+<<<<<<< HEAD
 "passed","Mon Dec 12 16:19:45 UTC 2022","Mon Dec 12 16:20:02 UTC 2022","16893","chromium","web/specs/CreateUnit.e2e.js","Verification of creating unit","","","Creating unit",""
 "passed","Mon Dec 12 16:20:52 UTC 2022","Mon Dec 12 16:20:59 UTC 2022","6681","Mobile Chrome","mobile/specs/Login.e2e.js","Check login page","","","Login page",""
 "passed","Mon Dec 12 16:19:10 UTC 2022","Mon Dec 12 16:19:27 UTC 2022","17617","chromium","web/specs/CreateTender-negative-scenarios.e2e.js","Check creating tender, negative scenario","","","Creating tender with adding the file with incorrect format, expect error message on the second tab of creating form",""
@@ -16,3 +17,22 @@
 "passed","Mon Dec 12 16:20:43 UTC 2022","Mon Dec 12 16:20:50 UTC 2022","6708","chromium","web/specs/Registration.e2e.js","Check registration","","","Registration",""
 "passed","Mon Dec 12 16:19:27 UTC 2022","Mon Dec 12 16:19:45 UTC 2022","17633","chromium","web/specs/CreateTender.e2e.js","Verification of creating tender","","","Creating tender",""
 "passed","Mon Dec 12 16:20:20 UTC 2022","Mon Dec 12 16:20:26 UTC 2022","5815","chromium","web/specs/Login.e2e.js","Negative tests for Login flow","","","Login with empty email and password",""
+=======
+"passed","Mon Dec 12 16:38:34 UTC 2022","Mon Dec 12 16:38:40 UTC 2022","5930","chromium","web/specs/Login.e2e.js","Negative tests for Login flow","","","Login with invalid email",""
+"passed","Mon Dec 12 16:36:58 UTC 2022","Mon Dec 12 16:37:16 UTC 2022","17508","chromium","web/specs/CreateTender-negative-scenarios.e2e.js","Check creating tender, negative scenario","","","Creating tender with adding the same file twice , expect error message on the second tab of creating form",""
+"passed","Mon Dec 12 16:38:28 UTC 2022","Mon Dec 12 16:38:34 UTC 2022","5917","chromium","web/specs/Login.e2e.js","Negative tests for Login flow","","","Login with empty email and password",""
+"passed","Mon Dec 12 16:36:45 UTC 2022","Mon Dec 12 16:36:58 UTC 2022","13465","chromium","web/specs/CreateTender-negative-scenarios.e2e.js","Check creating tender, negative scenario","","","Creating tender without adding file, expect error message on the second tab of creating form",""
+"passed","Mon Dec 12 16:38:52 UTC 2022","Mon Dec 12 16:38:59 UTC 2022","6898","chromium","web/specs/Registration.e2e.js","Check registration","","","Registration",""
+"passed","Mon Dec 12 16:38:16 UTC 2022","Mon Dec 12 16:38:22 UTC 2022","6179","chromium","web/specs/Login.e2e.js","Negative tests for Login flow","","","Login with empty email",""
+"passed","Mon Dec 12 16:38:46 UTC 2022","Mon Dec 12 16:38:52 UTC 2022","5919","chromium","web/specs/Login.e2e.js","Negative tests for Login flow","","","Login with invalid email and password",""
+"passed","Mon Dec 12 16:36:15 UTC 2022","Mon Dec 12 16:36:31 UTC 2022","16508","chromium","web/specs/CreateTender-negative-scenarios.e2e.js","Check creating tender, negative scenario","","","Creating tender with invalid name of service, expect tender is not created",""
+"passed","Mon Dec 12 16:38:22 UTC 2022","Mon Dec 12 16:38:28 UTC 2022","5962","chromium","web/specs/Login.e2e.js","Negative tests for Login flow","","","Login with empty password",""
+"passed","Mon Dec 12 16:38:09 UTC 2022","Mon Dec 12 16:38:16 UTC 2022","6748","chromium","web/specs/Login.e2e.js","Check login page","","","Login page",""
+"passed","Mon Dec 12 16:36:06 UTC 2022","Mon Dec 12 16:36:15 UTC 2022","8491","chromium","web/specs/CreateTender-negative-scenarios.e2e.js","Check creating tender, negative scenario","","","Creating tender with empty fields, expect error messages for mandatory fields is displayed on the first tab of creating form",""
+"passed","Mon Dec 12 16:37:52 UTC 2022","Mon Dec 12 16:38:09 UTC 2022","17283","chromium","web/specs/CreateUnit.e2e.js","Verification of creating unit","","","Creating unit",""
+"passed","Mon Dec 12 16:38:40 UTC 2022","Mon Dec 12 16:38:46 UTC 2022","5958","chromium","web/specs/Login.e2e.js","Negative tests for Login flow","","","Login with invalid password",""
+"passed","Mon Dec 12 16:37:16 UTC 2022","Mon Dec 12 16:37:33 UTC 2022","17588","chromium","web/specs/CreateTender-negative-scenarios.e2e.js","Check creating tender, negative scenario","","","Creating tender with adding the file with incorrect format, expect error message on the second tab of creating form",""
+"passed","Mon Dec 12 16:37:33 UTC 2022","Mon Dec 12 16:37:52 UTC 2022","18643","chromium","web/specs/CreateTender.e2e.js","Verification of creating tender","","","Creating tender",""
+"passed","Mon Dec 12 16:39:01 UTC 2022","Mon Dec 12 16:39:08 UTC 2022","6840","Mobile Chrome","mobile/specs/Login.e2e.js","Check login page","","","Login page",""
+"passed","Mon Dec 12 16:36:31 UTC 2022","Mon Dec 12 16:36:45 UTC 2022","13536","chromium","web/specs/CreateTender-negative-scenarios.e2e.js","Check creating tender, negative scenario","","","Creating tender with invalid place on the map, expect error message for AddressSelectionBlock is displayed on the first tab of the creating form",""
+>>>>>>> f8626a4e22af5d92206644cad0f677e519c7a929

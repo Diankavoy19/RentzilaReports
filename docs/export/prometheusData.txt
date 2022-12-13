@@ -3,9 +3,17 @@ launch_status_broken 0
 launch_status_passed 17
 launch_status_skipped 0
 launch_status_unknown 0
+<<<<<<< HEAD
 launch_time_duration 175900
 launch_time_min_duration 5749
 launch_time_max_duration 17633
 launch_time_sum_duration 173895
 launch_retries_retries 59
+=======
+launch_time_duration 181699
+launch_time_min_duration 5917
+launch_time_max_duration 18643
+launch_time_sum_duration 179373
+launch_retries_retries 76
+>>>>>>> f8626a4e22af5d92206644cad0f677e519c7a929
 launch_retries_run 17
