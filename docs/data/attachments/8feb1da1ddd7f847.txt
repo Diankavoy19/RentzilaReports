@@ -1,1 +1,0 @@
-	type more than 15 characters in "Назва моделі" input, expect error message to be visible

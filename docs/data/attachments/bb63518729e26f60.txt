@@ -1,1 +1,0 @@
-	type unknown vehicle manufacturer, expect "Not found" message to be visible

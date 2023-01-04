@@ -1,1 +1,0 @@
-	type more than 70 characters in "Назва оголошення" input, expect error message to be visible

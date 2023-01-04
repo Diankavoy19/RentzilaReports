@@ -1,1 +1,0 @@
-	leave empty fields, click "ПОДАТИ НА РОГЗЛЯД" button, expect error messages to be visible
