@@ -1,0 +1,1 @@
+Select empty Category, expect error messages to be visible
