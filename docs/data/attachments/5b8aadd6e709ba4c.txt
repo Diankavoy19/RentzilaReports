@@ -1,0 +1,1 @@
+	type empty vehicle manufacturer, expect error messages to be visible

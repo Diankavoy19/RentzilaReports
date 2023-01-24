@@ -1,0 +1,1 @@
+	type specific symbols in operator contacts input, expect error message is visible
